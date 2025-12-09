@@ -10,6 +10,6 @@ public:
             int sum = nums[i]-nums[i-k];
             maxEl = std::max(maxEl,sum);
         }
-        return (double(maxEl)/double(k));
+        return (double(maxEl)/k);
     }
 };
