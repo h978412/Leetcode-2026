@@ -9,9 +9,7 @@ public:
             if(prefix == k) count++;
             if(m.find((prefix-k)) != m.end()) count += m[(prefix-k)];
             if(m.find(prefix) != m.end()) m[prefix] += 1;
-            else{
-                m[prefix] = 1;
-            }
+            else m[prefix] = 1;
         }
         return count;
     }
