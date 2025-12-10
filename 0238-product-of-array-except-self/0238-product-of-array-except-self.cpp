@@ -5,6 +5,9 @@ public:
         int zeroCount = 0;
         int zeroPosition = -1;
         for(int i=0;i<nums.size();i++){
+            if(zeroCount > 1){
+                break;
+            }
             if(nums[i] == 0){
                 zeroCount++;
                 zeroPosition = i;
