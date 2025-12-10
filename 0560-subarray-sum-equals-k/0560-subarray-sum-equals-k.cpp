@@ -7,9 +7,9 @@ public:
         for(int i=0;i<nums.size();i++){
             prefix += nums[i];
             if(prefix == k) count++;
-            if(m.find((prefix-k)) != m.end()) count += m[(prefix-k)];
-            if(m.find(prefix) != m.end()) m[prefix] += 1;
-            else m[prefix] = 1;
+            if(m[(prefix-k)]) count += m[(prefix-k)];
+            m[prefix] += 1;
+            
         }
         return count;
     }
