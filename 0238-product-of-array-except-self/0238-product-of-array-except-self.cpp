@@ -1,33 +1,17 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        vector<int> ans(nums.size(),1);
         int product = 1;
-        int zeroCount = 0;
-        int zeroPosition = -1;
-        for(int i=0;i<nums.size();i++){
-            if(zeroCount > 1){
-                break;
-            }
-            if(nums[i] == 0){
-                zeroCount++;
-                zeroPosition = i;
-            }else{
-                product *= nums[i];
-            }
+        for(int i=1;i<nums.size();i++){
+            product *= nums[i-1];
+            ans[i] = product;
         }
-        // cout<< zeroPosition << endl;
-        if(zeroCount > 1){
-            return vector<int>(nums.size(),0);
-        }else if(zeroCount > 0){
-             vector<int>ans(nums.size(),0);
-             ans[zeroPosition] = product;
-             return ans;
-        }
-        vector<int> ans;
-        for(int i=0;i<nums.size();i++){
-            ans.push_back(product/nums[i]);
+        product = 1;
+        for(int i=nums.size()-2;i>=0;i--){
+            product *= nums[i+1];
+            ans[i] *= product;
         }
         return ans;
-        
     }
 };
