@@ -3,7 +3,7 @@ public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         int n = nums.size();
         vector<int> track(n+1,0);
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<n;i++){
             track[nums[i]]++;
         }
         vector<int> ans;
