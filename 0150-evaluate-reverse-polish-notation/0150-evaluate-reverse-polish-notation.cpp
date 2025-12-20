@@ -5,14 +5,14 @@ public:
         bool isFound = false;
         int  val = 0;
         for(auto token : tokens){
-            if(token != "+" && token != "-" && token != "/" && token != "*" ){
+            if(token == "+" || token == "-" || token == "/" || token == "*" ){
+                int two = s.top();s.pop();
+                int one = s.top();s.pop();
+                val = this->cal(one,two,token);
+                s.push(val);
+            }else{
                 s.push(std::stoi(token));
-                continue;
             }
-            int two = s.top();s.pop();
-            int one = s.top();s.pop();
-            val = this->cal(one,two,token);
-            s.push(val);
         }
         return s.top();
     }
