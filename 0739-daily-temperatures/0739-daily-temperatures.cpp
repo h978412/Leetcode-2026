@@ -4,9 +4,7 @@ public:
         int temp[101];
         vector<int> ans(t.size(),0);
         stack<int> s;
-        s.push(t[t.size()-1]);
-        temp[s.top()] = t.size()-1;
-        for(int i=t.size()-2;i>=0;i--){
+        for(int i=t.size()-1;i>=0;i--){
             temp[t[i]] = i;
             while(!s.empty() && s.top()<= t[i]){
                 s.pop();
