@@ -8,7 +8,7 @@ public:
         m = grid[0].size();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == 2) q.push(vector<int>{i,j,0});
+                if(grid[i][j] == 2) q.push({i,j,0});
             }
         }
         int t = 0;
@@ -18,19 +18,19 @@ public:
             t = q.front()[2];
             if(i+1 < n && grid[i+1][j] == 1){
                 grid[i+1][j] = 2;
-                q.push(vector<int>{i+1,j,t+1});
+                q.push({i+1,j,t+1});
             }
             if(i-1 >= 0 && grid[i-1][j] == 1){
                 grid[i-1][j] = 2;
-                q.push(vector<int>{i-1,j,t+1});
+                q.push({i-1,j,t+1});
             }
             if(j+1 < m && grid[i][j+1] == 1){
                 grid[i][j+1] = 2;
-                q.push(vector<int>{i,j+1,t+1});
+                q.push({i,j+1,t+1});
             }
             if(j-1 >=0 && grid[i][j-1] == 1){
                 grid[i][j-1] = 2;
-                q.push(vector<int>{i,j-1,t+1});
+                q.push({i,j-1,t+1});
             }
             q.pop();
         }
