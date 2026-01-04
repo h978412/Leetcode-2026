@@ -12,7 +12,7 @@ public:
     int getSum(int n){
         int cubeRoot = std::round(std::cbrt(n));
         if(cubeRoot*cubeRoot*cubeRoot == n && this->isPrime(cubeRoot)){
-            return 1+ cubeRoot + n/cubeRoot + n;
+            return 1+ cubeRoot + cubeRoot*cubeRoot + n;
         }
         for(int i=2;i*i<n;i++){
             cout<< i << endl;
