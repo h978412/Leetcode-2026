@@ -12,7 +12,7 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {  
-        map<int,int> m;
+        unordered_map<int,int> m;
         queue<pair<TreeNode*, int>> q;
         q.push({root,1});
         while(!q.empty()){
