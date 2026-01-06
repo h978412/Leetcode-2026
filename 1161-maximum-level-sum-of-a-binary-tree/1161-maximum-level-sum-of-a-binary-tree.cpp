@@ -12,7 +12,7 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {  
-        unordered_map<int,int> m;
+        vector<int> m(10001,INT_MIN);
         queue<pair<TreeNode*, int>> q;
         q.push({root,1});
         while(!q.empty()){
@@ -21,7 +21,7 @@ public:
                 int level = q.front().second;
                 q.push({node->left,level+1});
                 q.push({node->right,level+1});
-                if(m.find(level) != m.end()){
+                if(m[level] != INT_MIN){
                     m[level] += node->val;
                 }else{
                     m[level] = node->val;
@@ -32,7 +32,7 @@ public:
         int i=1;
         int maxSum = INT_MIN;
         int level = 1;
-        while(m.find(i) != m.end()){
+        while(m[i] != INT_MIN){
             if(m[i] > maxSum){
                 level = i;
                 maxSum = m[i];
