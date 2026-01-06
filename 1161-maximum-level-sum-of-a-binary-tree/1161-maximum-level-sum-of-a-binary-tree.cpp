@@ -11,34 +11,28 @@
  */
 class Solution {
 public:
-    int maxLevelSum(TreeNode* root) {  
-        vector<int> m(10001,INT_MIN);
-        queue<pair<TreeNode*, int>> q;
-        q.push({root,1});
-        while(!q.empty()){
-            TreeNode* node = q.front().first; 
-            if(node){
-                int level = q.front().second;
-                q.push({node->left,level+1});
-                q.push({node->right,level+1});
-                if(m[level] != INT_MIN){
-                    m[level] += node->val;
-                }else{
-                    m[level] = node->val;
-                }
-            }
-            q.pop();
-        }
+    vector<int> m;
+    int maxLevelSum(TreeNode* root) {
+        vector<int>m(10001,INT_MIN);
+        this->dfs(root,1,m);
         int i=1;
-        int maxSum = INT_MIN;
         int level = 1;
+        int maxSum = INT_MIN;
         while(m[i] != INT_MIN){
             if(m[i] > maxSum){
-                level = i;
                 maxSum = m[i];
+                level = i;
             }
             i++;
         }
         return level;
+
+    }
+    void dfs(TreeNode* root, int level,vector<int>& m){
+        if(!root) return;
+        if(m[level] == INT_MIN) m[level] = root->val;
+        else m[level] += root->val;
+        this->dfs(root->left,level+1,m);
+        this->dfs(root->right,level+1,m);
     }
 };
