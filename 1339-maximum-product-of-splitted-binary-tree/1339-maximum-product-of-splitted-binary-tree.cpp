@@ -21,7 +21,7 @@ public:
     int maxSum(TreeNode* root, int& totalSum, long long& maxProduct){
         if(root == NULL) return 0;
         int sum = root->val + this->maxSum(root->left,totalSum,maxProduct) + maxSum(root->right,totalSum,maxProduct);
-        long long product = (long long)(totalSum-sum)* (long long)sum;
+        long long product = ((long long)(totalSum-sum)* (long long)sum);
         maxProduct = product>maxProduct ? product : maxProduct;
         return sum;
     }
