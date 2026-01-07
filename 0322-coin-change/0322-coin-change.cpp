@@ -7,16 +7,8 @@ public:
     int rec(vector<int>& coins,int i, int amount,vector<vector<int>>& m){
 
         if(m[amount][i] != -2) return m[amount][i]; 
-
-        if(amount == 0){
-            m[amount][i] = 0;
-            return 0;
-        }
-            
-        if(i == 0){
-            m[amount][i] = -1;
-            return -1;
-        }
+        if(amount == 0) return 0;
+        if(i == 0) return -1;
 
         int count1=-1,count2=-1;
         if(coins[i-1] <= amount){
