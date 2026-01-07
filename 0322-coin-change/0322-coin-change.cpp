@@ -25,12 +25,6 @@ public:
             }
         }
 
-        // for(int i=0;i<=amount;i++){
-        //     for(int j=0;j<=coins.size();j++){
-        //         cout<<m[i][j] << " ";
-        //     }
-        //     cout<<endl;
-        // }
         return m[amount][coins.size()];
     }
 
