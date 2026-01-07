@@ -11,28 +11,23 @@
  */
 class Solution {
 public:
+    int MOD = 1000000007;
     int maxProduct(TreeNode* root) {
-        long long mval = INT_MIN;
-        long long tsum= totalsum(root);
-        func(root,mval,tsum);
-        int mod = pow(10,9) + 7;
-        return mval%mod;
+        int totalSum = this->sum(root);
+        long long maxProduct = 0;
+        this->maxSum(root,totalSum,maxProduct);
+        return maxProduct%MOD;
     }
-    long long totalsum(TreeNode* root){
-        if(root==NULL) return 0;
-        long long sum=0;
-        sum += totalsum(root->left);
-        sum+=root->val;
-        sum += totalsum(root->right);
+    int maxSum(TreeNode* root, int& totalSum, long long& maxProduct){
+        if(root == NULL) return 0;
+        int sum = root->val + this->maxSum(root->left,totalSum,maxProduct) + maxSum(root->right,totalSum,maxProduct);
+        long long product = (long long)(totalSum-sum)* (long long)sum;
+        maxProduct = product>maxProduct ? product : maxProduct;
         return sum;
     }
-    long long func(TreeNode* root,long long& mval,long long& tsum){
-        if(root==NULL) return 0;
-        long long sum =0;
-        sum+=func(root->left,mval,tsum);
-        sum+=func(root->right,mval,tsum);
-        sum+=root->val;
-        mval = max(mval,((tsum-sum)*sum));
-        return sum;
+    int sum(TreeNode* root){
+        if(root == NULL) return 0;
+        return root->val + this->sum(root->left) + this->sum(root->right);
     }
+
 };
