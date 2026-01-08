@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestValidParentheses(string s) {
         stack<int> st;
-        vector<int> m(s.size(),0);
+        vector<bool> m(s.size(),false);
         int counter = 0;
         int maxCounter = 0;
         for(int i=0;i<s.size();i++){
@@ -10,14 +10,14 @@ public:
                 st.push(i);
             }else{
                 if(!st.empty()){
-                    m[i] = 1;
-                    m[st.top()] = 1;
+                    m[i] = true;
+                    m[st.top()] = true;
                     st.pop();
                 }
             }
         }
-        for(int i=0;i<m.size();i++){
-            if(m[i] == 1){
+        for(auto i : m){
+            if(i){
                 counter++;
             }else{
                 maxCounter = max(counter,maxCounter);
