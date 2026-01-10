@@ -8,12 +8,11 @@ public:
         for(int i=1;i<=s1.size();i++){
             for(int j=1;j<=s2.size();j++){
                 int count1=INT_MAX,count2=INT_MAX,count3=INT_MAX;
-                count1 = m[i-1][j] + s1[i-1];
-                count2 = m[i][j-1] + s2[j-1];
                 if(s1[i-1] == s2[j-1]){
-                    count3 = m[i-1][j-1];
+                    m[i][j] = m[i-1][j-1];
+                }else{
+                    m[i][j] = min(m[i-1][j] + s1[i-1],m[i][j-1] + s2[j-1]);
                 }
-                m[i][j] = min({count1,count2,count3});
             }
         }
         return m[s1.size()][s2.size()];
