@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDeleteSum(string s1, string s2) {
-        vector<vector<int>>m(s1.size()+1,vector<int>(s2.size()+1));
+        vector<vector<int>>m(1001,vector<int>(1001));
         m[0][0] = 0;
         for(int i=1;i<=s1.size();i++) m[i][0] = m[i-1][0] + s1[i-1];
         for(int i=1;i<=s2.size();i++) m[0][i] = m[0][i-1] + s2[i-1];
