@@ -2,7 +2,7 @@ class Solution {
 public:
     bool hasAllCodes(string s, int k) {
         unordered_map<string,bool> m;
-        for(int i=0;i+k<s.size();i++){
+        for(int i=0;i+k<=s.size();i++){
             string subString = "";
             for(int j=i;j<i+k;j++){
                 subString += s[j];
