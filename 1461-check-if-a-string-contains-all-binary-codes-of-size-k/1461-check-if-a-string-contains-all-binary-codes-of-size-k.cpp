@@ -1,23 +1,12 @@
 class Solution {
 public:
     bool hasAllCodes(string s, int k) {
-        unordered_map<string,bool> m;
-        for(int i=0;i+k<=s.size();i++){
-            string subString = "";
-            for(int j=i;j<i+k;j++){
-                subString += s[j];
-            }
+        unordered_set<string> st;
 
-            if(m.find(subString) == m.end()) m[subString] = true;
+        for (int i = 0; i + k <= s.size(); i++) {
+            st.insert(s.substr(i, k));
         }
 
-        int possiblities = pow(2,k);
-
-        
-
-        return possiblities <= m.size() ?  true :  false;
-// 
-        // return false;
-        
+        return st.size() == (int)pow(2, k);
     }
 };
