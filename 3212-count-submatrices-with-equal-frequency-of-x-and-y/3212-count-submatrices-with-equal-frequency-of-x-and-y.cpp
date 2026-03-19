@@ -11,6 +11,8 @@ public:
         for(int i=1;i<grid[0].size();i++){
             mat[0][i] = m[grid[0][i]] + mat[0][i-1];
         }
+        int count = 0;
+        int xFoundAt = INT_MAX;
 
         for(int i=1;i<grid.size();i++){
             int prefix = m[grid[i][0]];
@@ -20,8 +22,6 @@ public:
                 mat[i][j] = mat[i-1][j] + prefix;
             }
         }
-        int count = 0;
-        int xFoundAt = INT_MAX;
         for(int i=0;i<grid.size();i++){
             for (int j=0;j<grid[0].size();j++){
                 if(mat[i][j] == 0 && xFoundAt <= j){
