@@ -4,7 +4,6 @@ public:
         int len = encodedText.size();
         int cols = len/rows;
         string ans = "";
-        cout << cols;
         for(int j=0;j<cols;j++){
             for(int i=0;i<rows;i++){
                 int row = i;
