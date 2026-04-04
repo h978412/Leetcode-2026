@@ -17,16 +17,13 @@ public:
             }
         }
 
+        while(ans.size()!=0 && ans[ans.size()-1] == ' '){
+            ans.pop_back();
+        }
 
+        return ans;
 
-        return this->trim_right(ans);
 
     }
 
-    string trim_right(string& s){
-        if(s.size() == 0 || s[s.size()-1] != ' ') return s;
-        s.pop_back();
-        return this->trim_right(s);
-
-    }
 };
