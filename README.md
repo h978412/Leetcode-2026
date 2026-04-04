@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/h978412/Leetcode-2026/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/h978412/Leetcode-2026/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/h978412/Leetcode-2026/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Hash Table
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/h978412/Leetcode-2026/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/h978412/Leetcode-2026/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/h978412/Leetcode-2026/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## String Matching
