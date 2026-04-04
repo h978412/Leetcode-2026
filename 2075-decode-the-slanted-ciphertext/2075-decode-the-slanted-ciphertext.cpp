@@ -6,8 +6,6 @@ public:
         string ans = "";
         for(int j=0;j<cols;j++){
             for(int i=0;i<rows;i++){
-                // int row = i;
-                // int col = j+row;
                 int currentIndex = (i*cols) + (j+i);
                 if(currentIndex < len){
                     ans += encodedText[currentIndex];
