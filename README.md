@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/h978412/Leetcode-2026/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/h978412/Leetcode-2026/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
