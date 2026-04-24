@@ -4,8 +4,8 @@ public:
         int ans = 0;
         int uCount = 0;
         for(auto move : moves){
-            if(move == 'L') ans--;
-            else if(move == 'R') ans++;
+            if(!(move^ 'L')) ans--;
+            else if(!(move ^ 'R')) ans++;
             else uCount++;
         }
 
