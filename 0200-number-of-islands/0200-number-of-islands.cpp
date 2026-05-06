@@ -13,7 +13,7 @@ public:
         return count;
     }
     void dfs(vector<vector<char>>& grid, int row, int col){
-        if(row <0 || row >= grid.size() || col < 0 || col > grid[0].size()) return;
+        if(row <0 || row >= grid.size() || col < 0 || col >= grid[0].size()) return;
         if(grid[row][col] == '1'){
             // visited[row][col] = true;
             grid[row][col] = '0';
