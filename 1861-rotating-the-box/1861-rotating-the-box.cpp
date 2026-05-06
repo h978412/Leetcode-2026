@@ -6,25 +6,16 @@ public:
         vector<vector<char>> ans(m,vector<char>(n,'.'));
 
         for(int i=0;i<n;i++){
+            int lastIndex = m-1;
             for(int j=m-1;j>=0;j--){
                 char item = boxGrid[i][j];
-                if(item == '*' || item == '.'){
-                    ans[j][n-i-1] = item;
-                }else{
-                    int row = j;
-                    while(row < m){
-                        if(row == m-1){
-                            ans[row][n-i-1] = item;
-                            break;
-                        }
-                        else{
-                            if(ans[row+1][n-i-1] != '.'){
-                                ans[row][n-i-1] = item;
-                                break;   
-                            }
-                        }
-                        row++;
-                    }
+                if(item == '*'){
+                    lastIndex = j-1;
+                    ans[j][n-i-1] = '*';
+                }
+                else if(item == '#'){
+                    ans[lastIndex][n-i-1] = item;
+                    lastIndex -= 1;
                 }
             }
         }
