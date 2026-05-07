@@ -2,40 +2,31 @@ class Solution {
 public:
     vector<int> maxValue(vector<int>& nums) {
         int n = nums.size();
-        vector<int>maxArr(n,nums[0]);
-        for(int i=1;i<nums.size();i++){
-            maxArr[i] = max(maxArr[i-1],nums[i]);
+        vector<int> maxArr(n, nums[0]);
+        for (int i = 1; i < nums.size(); i++) {
+            maxArr[i] = max(maxArr[i - 1], nums[i]);
         }
-        vector<int>ans(n,maxArr[n-1]);
-        set<int> s;
-        map<int,int> m;
+        vector<int> ans(n, maxArr[n - 1]);
+        map<int, int> m;
+        m.insert({nums[n - 1], n - 1});
+        ans[n-1] = maxArr[n - 1];
 
-        for(int i=n-1;i>=0;i--){
-            if(s.empty()){
-                s.insert(nums[i]);
-                m.insert({nums[i],i});
-                ans[i] = maxArr[i];
-            }else{
-                auto it = s.lower_bound(nums[i]);
-                    if(it == s.begin()){
-                        auto it1 = s.lower_bound(maxArr[i]);
-                        if(it1 == s.begin()){
-                            ans[i] = maxArr[i];
-                        }else{
-                            it1 = --it1;
-                            int el = *it1;
-                            ans[i] = ans[m[el]];
-                        }
-
-                        s.insert(nums[i]);
-                        m.insert({nums[i],i});
-                    }else{
-                        it = --it;
-                        int el = *it;
-                        ans[i] = ans[m[el]];
-                    }
+        for (int i = n - 2; i >= 0; i--) {
+            auto it = m.lower_bound(nums[i]);
+            if (it == m.begin()) {
+                auto it1 = m.lower_bound(maxArr[i]);
+                if (it1 == m.begin()) {
+                    ans[i] = maxArr[i];
+                } else {
+                    it1 = --it1;
+                    ans[i] = ans[m[it1->first]];
+                }
+                m.insert({nums[i], i});
+            } else {
+                it = --it;
+                ans[i] = ans[m[it->first]];
             }
         }
-     return ans;   
+        return ans;
     }
 };
