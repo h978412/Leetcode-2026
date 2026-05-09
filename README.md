@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/h978412/Leetcode-2026/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -169,4 +171,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
