@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/h978412/Leetcode-2026/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/h978412/Leetcode-2026/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/h978412/Leetcode-2026/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/h978412/Leetcode-2026/tree/main/2751-robot-collisions/) | Hard |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/h978412/Leetcode-2026/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/h978412/Leetcode-2026/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -90,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/h978412/Leetcode-2026/tree/main/0796-rotate-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/h978412/Leetcode-2026/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/h978412/Leetcode-2026/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -122,10 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/h978412/Leetcode-2026/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/h978412/Leetcode-2026/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -155,4 +162,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/h978412/Leetcode-2026/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
