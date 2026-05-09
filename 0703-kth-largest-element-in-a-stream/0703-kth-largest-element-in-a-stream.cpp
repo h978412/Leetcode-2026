@@ -6,7 +6,7 @@ public:
         this->k = k;
         for(auto num: nums){
             pq.push(num);
-            while(pq.size()>k){
+            if(pq.size()>k){
                 pq.pop();
             }
         }
@@ -14,7 +14,7 @@ public:
     
     int add(int val) {
         pq.push(val);
-        while(pq.size()>this->k){
+        if(pq.size()>this->k){
             pq.pop();
         }
         return pq.top();
