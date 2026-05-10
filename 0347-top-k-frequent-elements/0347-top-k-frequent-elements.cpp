@@ -1,14 +1,14 @@
 class Solution {
 public:
     struct Compare{
-        map<int,int>& m;
-        Compare(map<int,int>& mapRef) : m(mapRef){}
+        unordered_map<int,int>& m;
+        Compare(unordered_map<int,int>& mapRef) : m(mapRef){}
         bool operator()(int a, int b){
             return m.at(a) > m.at(b);
         }
     };
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        map<int,int>m;
+        unordered_map<int,int>m;
         for(auto num : nums){
             m[num] += 1;
         }
