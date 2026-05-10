@@ -11,10 +11,6 @@ public:
             }
             m[i] = maxjump;
         }
-
-        for(auto val : m){
-            cout << val << " ";
-        }
         return m[0];   
     }
 };
