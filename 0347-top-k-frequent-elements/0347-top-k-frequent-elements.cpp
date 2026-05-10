@@ -6,7 +6,7 @@ public:
         for(auto num : nums){
             m[num] += 1;
         }
-        auto comparator = [&](int a, int b){
+        auto comparator = [&m](int a, int b){
             return m[a] > m[b];
         };
 
