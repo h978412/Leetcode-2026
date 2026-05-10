@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/h978412/Leetcode-2026/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/h978412/Leetcode-2026/tree/main/2751-robot-collisions/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/h978412/Leetcode-2026/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/h978412/Leetcode-2026/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/h978412/Leetcode-2026/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/h978412/Leetcode-2026/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/h978412/Leetcode-2026/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/h978412/Leetcode-2026/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/h978412/Leetcode-2026/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/h978412/Leetcode-2026/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
