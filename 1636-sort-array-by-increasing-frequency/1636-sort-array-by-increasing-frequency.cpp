@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
         map<int,int>m;
-        vector<int> ans;
+        // vector<int> ans;
         for(auto& num : nums){
             m[num] += 1;
         }
@@ -17,13 +17,13 @@ public:
         for(auto& num  : nums){
             pq.push(num);
         }
-        // int i = 0;
+        int i =0;
         while(!pq.empty()){
-            ans.push_back(pq.top());
-            pq.pop();
+            nums[i] = pq.top();
+            pq.pop();i++;
         }
 
-        return ans;
+        return nums;
         
     }
 };
