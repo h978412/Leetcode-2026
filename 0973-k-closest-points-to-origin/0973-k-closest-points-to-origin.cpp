@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<pair<float,int>> pq;
+        priority_queue<pair<long,int>> pq;
 
         for(int i=0;i<points.size();i++){
-            float d = sqrt(points[i][0]*points[i][0] + points[i][1]*points[i][1]);
+            long d = (points[i][0]*points[i][0] + points[i][1]*points[i][1]);
             pq.push({d,i});
             if(pq.size() > k) pq.pop();
         }
