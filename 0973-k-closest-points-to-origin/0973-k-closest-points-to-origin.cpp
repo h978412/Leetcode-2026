@@ -9,14 +9,15 @@ public:
             if(pq.size() > k) pq.pop();
         }
 
-        vector<vector<int>>ans(k,vector<int>(2,0));
+        vector<vector<int>>ans;
 
-        int i = 0;
+        // int i = 0;
         while(!pq.empty()){
             int index = pq.top().second;
             pq.pop();
-            ans[i] = points[index];
-            i++;
+            ans.push_back(points[index]);
+            // ans[i] = points[index];
+            // i++;
         }
 
         return ans;
