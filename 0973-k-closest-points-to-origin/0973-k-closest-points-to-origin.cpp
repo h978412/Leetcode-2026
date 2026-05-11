@@ -10,14 +10,10 @@ public:
         }
 
         vector<vector<int>>ans;
-
-        // int i = 0;
         while(!pq.empty()){
             int index = pq.top().second;
             pq.pop();
             ans.push_back(points[index]);
-            // ans[i] = points[index];
-            // i++;
         }
 
         return ans;
