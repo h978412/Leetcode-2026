@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/h978412/Leetcode-2026/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/h978412/Leetcode-2026/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/h978412/Leetcode-2026/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/h978412/Leetcode-2026/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -193,11 +194,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
+| [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
+| [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/h978412/Leetcode-2026/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
