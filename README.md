@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/h978412/Leetcode-2026/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/h978412/Leetcode-2026/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/h978412/Leetcode-2026/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/h978412/Leetcode-2026/tree/main/2751-robot-collisions/) | Hard |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/h978412/Leetcode-2026/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/h978412/Leetcode-2026/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/h978412/Leetcode-2026/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/h978412/Leetcode-2026/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/h978412/Leetcode-2026/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/h978412/Leetcode-2026/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/h978412/Leetcode-2026/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/h978412/Leetcode-2026/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/h978412/Leetcode-2026/tree/main/0061-rotate-list/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/h978412/Leetcode-2026/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1861-rotating-the-box](https://github.com/h978412/Leetcode-2026/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
