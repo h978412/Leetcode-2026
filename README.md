@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0476-number-complement](https://github.com/h978412/Leetcode-2026/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/h978412/Leetcode-2026/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/h978412/Leetcode-2026/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/h978412/Leetcode-2026/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/h978412/Leetcode-2026/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/h978412/Leetcode-2026/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/h978412/Leetcode-2026/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/h978412/Leetcode-2026/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/h978412/Leetcode-2026/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/h978412/Leetcode-2026/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/h978412/Leetcode-2026/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/h978412/Leetcode-2026/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/h978412/Leetcode-2026/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
