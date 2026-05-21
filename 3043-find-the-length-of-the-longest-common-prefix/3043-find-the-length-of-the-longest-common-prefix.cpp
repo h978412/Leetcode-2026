@@ -14,6 +14,7 @@ public:
         for(auto num : arr2){
             auto num_str = to_string(num);
             string pre = "";
+            if(num_str.size() <= ans) continue;
             for(int i=0;i<num_str.size();i++){
                 pre += num_str[i];
                 if(m[pre]){
