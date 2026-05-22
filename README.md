@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/h978412/Leetcode-2026/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/h978412/Leetcode-2026/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/h978412/Leetcode-2026/tree/main/0658-find-k-closest-elements/) | Medium |
