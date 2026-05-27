@@ -1,8 +1,8 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        std::vector<bool> U(26, false); // Uppercase seen
-        std::vector<bool> L(26, false); // Lowercase seen
+        std::vector<bool> U(26, false);
+        std::vector<bool> L(26, false);
         std::vector<bool> C(26, true);
 
         for(auto c : word){
