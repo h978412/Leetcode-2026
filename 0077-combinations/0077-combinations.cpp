@@ -10,9 +10,9 @@ public:
     void rec(int n, int k, int i, vector<int>& temp){
         if(temp.size() == k) {ans.push_back(temp);return;}
         if(i > n) return;
-        this->rec(n,k,i+1,temp);
         temp.push_back(i);
         this->rec(n,k,i+1,temp);
         temp.pop_back();
+        this->rec(n,k,i+1,temp);
     }
 };
