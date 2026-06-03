@@ -1,24 +1,27 @@
 class Solution {
+    int solve(vector<int>& start1, vector<int>& duration1, vector<int>& start2,
+              vector<int>& duration2) {
+        int finish1 = INT_MAX;
+        for (int i = 0; i < start1.size(); i++) {
+            finish1 = min(finish1, start1[i] + duration1[i]);
+        }
+
+        int finish2 = INT_MAX;
+        for (int i = 0; i < start2.size(); i++) {
+            finish2 = min(finish2, max(start2[i], finish1) + duration2[i]);
+        }
+        return finish2;
+    }
+
 public:
-    int earliestFinishTime(vector<int>& ls, vector<int>& ld, vector<int>& ws, vector<int>& wd) {
-        int wmin = INT_MAX, lmin = INT_MAX, ans = INT_MAX;
-        //assume land ride end first
-        for(int i=0;i<ls.size();i++){
-            lmin = min(lmin, ls[i]+ld[i]);
-        }
-        for(int i=0;i<ws.size();i++){
-            int startTime = max(lmin,ws[i]);
-            ans = min(ans,startTime+wd[i]);
-        }
-        //assume water ride end first
-        for(int i=0;i<ws.size();i++){
-            wmin = min(wmin, ws[i]+wd[i]);
-        }
-        for(int i=0;i<ls.size();i++){
-            int startTime = max(wmin,ls[i]);
-            ans = min(ans,startTime+ld[i]);
-        }
-        return ans;
-        
+    int earliestFinishTime(vector<int>& landStartTime,
+                           vector<int>& landDuration,
+                           vector<int>& waterStartTime,
+                           vector<int>& waterDuration) {
+        int land_water =
+            solve(landStartTime, landDuration, waterStartTime, waterDuration);
+        int water_land =
+            solve(waterStartTime, waterDuration, landStartTime, landDuration);
+        return min(land_water, water_land);
     }
 };
