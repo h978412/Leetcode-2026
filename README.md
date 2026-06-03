@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/h978412/Leetcode-2026/tree/main/0039-combination-sum/) | Medium |
+| [0068-text-justification](https://github.com/h978412/Leetcode-2026/tree/main/0068-text-justification/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/h978412/Leetcode-2026/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/h978412/Leetcode-2026/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/h978412/Leetcode-2026/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h978412/Leetcode-2026/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0068-text-justification](https://github.com/h978412/Leetcode-2026/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/h978412/Leetcode-2026/tree/main/0796-rotate-string/) | Easy |
