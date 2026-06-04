@@ -8,8 +8,6 @@ public:
                 if(((s[j] > s[j-1]) && (s[j] > s[j+1])) || ((s[j] < s[j-1]) && (s[j] < s[j+1]))) count++;
             }
         }
-
         return count;
-
     }
 };
