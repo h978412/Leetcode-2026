@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/h978412/Leetcode-2026/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/h978412/Leetcode-2026/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/h978412/Leetcode-2026/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/h978412/Leetcode-2026/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/h978412/Leetcode-2026/tree/main/1345-jump-game-iv/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/h978412/Leetcode-2026/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/h978412/Leetcode-2026/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/h978412/Leetcode-2026/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2540-minimum-common-value](https://github.com/h978412/Leetcode-2026/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/h978412/Leetcode-2026/tree/main/2615-sum-of-distances/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
