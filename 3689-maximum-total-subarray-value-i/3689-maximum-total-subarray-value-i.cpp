@@ -7,8 +7,8 @@ public:
             low = min(low,num);
             high = max(high,num);
         }
-        long long diff = high-low;
+        // long long diff = high-low;
 
-        return (diff)*k; 
+        return 1LL*(high-low)*k; 
     }
 };
