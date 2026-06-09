@@ -3,7 +3,6 @@ public:
     long long maxTotalValue(vector<int>& nums, int k) {
         int low = INT_MAX;
         int high = INT_MIN;
-
         for(auto num : nums){
             low = min(low,num);
             high = max(high,num);
