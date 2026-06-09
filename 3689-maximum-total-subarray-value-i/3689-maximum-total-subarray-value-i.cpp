@@ -1,10 +1,15 @@
 class Solution {
 public:
     long long maxTotalValue(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        long long low = nums[0];
-        long long high = nums[nums.size()-1];
+        int low = INT_MAX;
+        int high = INT_MIN;
 
-        return (high-low)*k; 
+        for(auto num : nums){
+            low = min(low,num);
+            high = max(high,num);
+        }
+        long long diff = high-low;
+
+        return (diff)*k; 
     }
 };
