@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/h978412/Leetcode-2026/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/h978412/Leetcode-2026/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/h978412/Leetcode-2026/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/h978412/Leetcode-2026/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3474-lexicographically-smallest-generated-string](https://github.com/h978412/Leetcode-2026/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/h978412/Leetcode-2026/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/h978412/Leetcode-2026/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/h978412/Leetcode-2026/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
