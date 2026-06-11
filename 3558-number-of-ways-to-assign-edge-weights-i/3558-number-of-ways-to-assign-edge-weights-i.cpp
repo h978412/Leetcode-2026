@@ -7,12 +7,8 @@ public:
             this->insert(edge[1],edge[0]);
         }
         int height= this->dfs(1,0)-1;
-        long long ans =1;
-        while(--height){
-            ans *= 2;
-            ans %=1000000007; 
-        }
-        return ans;
+        return this->pow(2,height-1);
+
     }
 
     int dfs(int n,int pre){
@@ -31,5 +27,19 @@ public:
         }else{
             m[u].push_back(v);
         }
+    }
+
+    long long pow(long long base, int exp) {
+        long long res = 1;
+
+        while (exp) {
+            if (exp & 1)
+                res = res * base % 1000000007;
+
+            base = base * base % 1000000007;
+            exp >>= 1;
+        }
+
+        return res;
     }
 };
