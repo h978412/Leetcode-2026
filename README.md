@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/h978412/Leetcode-2026/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/h978412/Leetcode-2026/tree/main/1345-jump-game-iv/) | Hard |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/h978412/Leetcode-2026/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/h978412/Leetcode-2026/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/h978412/Leetcode-2026/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/h978412/Leetcode-2026/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1340-jump-game-v](https://github.com/h978412/Leetcode-2026/tree/main/1340-jump-game-v/) | Hard |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/h978412/Leetcode-2026/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/h978412/Leetcode-2026/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/h978412/Leetcode-2026/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/h978412/Leetcode-2026/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
