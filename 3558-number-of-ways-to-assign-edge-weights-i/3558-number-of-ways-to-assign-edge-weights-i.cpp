@@ -23,7 +23,7 @@ public:
     int dfs(vector<vector<int>>& tree, int n, int p){
         int height = -1;
         for(const auto& el : tree[n]){
-            if(el != p){
+            if(el^p){
                 height = max(height,this->dfs(tree,el,n));
             }
         }
