@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/h978412/Leetcode-2026/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/h978412/Leetcode-2026/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/h978412/Leetcode-2026/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/h978412/Leetcode-2026/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/h978412/Leetcode-2026/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/h978412/Leetcode-2026/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/h978412/Leetcode-2026/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/h978412/Leetcode-2026/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/h978412/Leetcode-2026/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/h978412/Leetcode-2026/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/h978412/Leetcode-2026/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/h978412/Leetcode-2026/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/h978412/Leetcode-2026/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/h978412/Leetcode-2026/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/h978412/Leetcode-2026/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/h978412/Leetcode-2026/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/h978412/Leetcode-2026/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/h978412/Leetcode-2026/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/h978412/Leetcode-2026/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/h978412/Leetcode-2026/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/h978412/Leetcode-2026/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/h978412/Leetcode-2026/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/h978412/Leetcode-2026/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/h978412/Leetcode-2026/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/h978412/Leetcode-2026/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/h978412/Leetcode-2026/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/h978412/Leetcode-2026/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/h978412/Leetcode-2026/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/h978412/Leetcode-2026/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
