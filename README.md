@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/h978412/Leetcode-2026/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/h978412/Leetcode-2026/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/h978412/Leetcode-2026/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/h978412/Leetcode-2026/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/h978412/Leetcode-2026/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/h978412/Leetcode-2026/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/h978412/Leetcode-2026/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/h978412/Leetcode-2026/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/h978412/Leetcode-2026/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/h978412/Leetcode-2026/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/h978412/Leetcode-2026/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/h978412/Leetcode-2026/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
