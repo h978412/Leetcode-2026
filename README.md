@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/h978412/Leetcode-2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h978412/Leetcode-2026/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/h978412/Leetcode-2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/h978412/Leetcode-2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h978412/Leetcode-2026/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0068-text-justification](https://github.com/h978412/Leetcode-2026/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/h978412/Leetcode-2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/h978412/Leetcode-2026/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1871-jump-game-vii](https://github.com/h978412/Leetcode-2026/tree/main/1871-jump-game-vii/) | Medium |
 ## Geometry
