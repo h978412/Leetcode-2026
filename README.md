@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/h978412/Leetcode-2026/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/h978412/Leetcode-2026/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/h978412/Leetcode-2026/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/h978412/Leetcode-2026/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -327,10 +329,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/h978412/Leetcode-2026/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/h978412/Leetcode-2026/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/h978412/Leetcode-2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/h978412/Leetcode-2026/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Data Stream
