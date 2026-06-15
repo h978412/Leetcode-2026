@@ -15,7 +15,7 @@ class Solution {
         int carry = 0;
 
         while(l1!=null || l2!= null){
-            System.out.println("here");
+            // System.out.println("here");
             int sum = (l1==null?0:l1.val) + (l2==null?0:l2.val) + carry;
             // head.next.val = sum%10;
             carry = sum/10;
