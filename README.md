@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/h978412/Leetcode-2026/tree/main/0002-add-two-numbers/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/h978412/Leetcode-2026/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/h978412/Leetcode-2026/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/h978412/Leetcode-2026/tree/main/0061-rotate-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/h978412/Leetcode-2026/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/h978412/Leetcode-2026/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -380,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/h978412/Leetcode-2026/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/h978412/Leetcode-2026/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
