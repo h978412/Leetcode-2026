@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/h978412/Leetcode-2026/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/h978412/Leetcode-2026/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/h978412/Leetcode-2026/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/h978412/Leetcode-2026/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/h978412/Leetcode-2026/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/h978412/Leetcode-2026/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/h978412/Leetcode-2026/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/h978412/Leetcode-2026/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/h978412/Leetcode-2026/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/h978412/Leetcode-2026/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/h978412/Leetcode-2026/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/h978412/Leetcode-2026/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/h978412/Leetcode-2026/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/h978412/Leetcode-2026/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/h978412/Leetcode-2026/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/h978412/Leetcode-2026/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/h978412/Leetcode-2026/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
