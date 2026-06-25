@@ -1,19 +1,17 @@
 class Solution {
     public int countMajoritySubarrays(int[] nums, int target) {
-        HashMap<Integer,Integer>hm =new HashMap<Integer,Integer>();
+        // HashMap<Integer,Integer>hm =new HashMap<Integer,Integer>();
         int ans = 0;
+        int mejCount = 0;
 
         for(int i=0;i<nums.length;i++){
             for(int j=i;j<nums.length;j++){
-                if(hm.containsKey(nums[j])){
-                    hm.put(nums[j],hm.get(nums[j])+1);
-                }else{
-                    hm.put(nums[j],1);
+                if(nums[j] == target){
+                    mejCount++;
                 }
-                if(hm.containsKey(target) && hm.get(target)>(j-i+1)/2) ans++;
-                // System.out.println(hm);
+                if(mejCount > (j-i+1)/2) ans++;
             }
-            hm.clear();
+            mejCount = 0;
         }
         return ans;
         
