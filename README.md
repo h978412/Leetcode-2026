@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/h978412/Leetcode-2026/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/h978412/Leetcode-2026/tree/main/0055-jump-game/) | Medium |
 | [0068-text-justification](https://github.com/h978412/Leetcode-2026/tree/main/0068-text-justification/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/h978412/Leetcode-2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/h978412/Leetcode-2026/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/h978412/Leetcode-2026/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/h978412/Leetcode-2026/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/h978412/Leetcode-2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/h978412/Leetcode-2026/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1340-jump-game-v](https://github.com/h978412/Leetcode-2026/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/h978412/Leetcode-2026/tree/main/1871-jump-game-vii/) | Medium |
