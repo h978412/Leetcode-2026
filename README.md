@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/h978412/Leetcode-2026/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/h978412/Leetcode-2026/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/h978412/Leetcode-2026/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/h978412/Leetcode-2026/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/h978412/Leetcode-2026/tree/main/1345-jump-game-iv/) | Hard |
@@ -427,4 +429,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/h978412/Leetcode-2026/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/h978412/Leetcode-2026/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/h978412/Leetcode-2026/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/h978412/Leetcode-2026/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
