@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/h978412/Leetcode-2026/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/h978412/Leetcode-2026/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/h978412/Leetcode-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/h978412/Leetcode-2026/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0733-flood-fill](https://github.com/h978412/Leetcode-2026/tree/main/0733-flood-fill/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/h978412/Leetcode-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/h978412/Leetcode-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/h978412/Leetcode-2026/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/h978412/Leetcode-2026/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/h978412/Leetcode-2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h978412/Leetcode-2026/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/h978412/Leetcode-2026/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/h978412/Leetcode-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/h978412/Leetcode-2026/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/h978412/Leetcode-2026/tree/main/1345-jump-game-iv/) | Hard |
