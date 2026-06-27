@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/h978412/Leetcode-2026/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/h978412/Leetcode-2026/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/h978412/Leetcode-2026/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/h978412/Leetcode-2026/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/h978412/Leetcode-2026/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/h978412/Leetcode-2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/h978412/Leetcode-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/h978412/Leetcode-2026/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/h978412/Leetcode-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/h978412/Leetcode-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/h978412/Leetcode-2026/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
