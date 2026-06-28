@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/h978412/Leetcode-2026/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/h978412/Leetcode-2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/h978412/Leetcode-2026/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/h978412/Leetcode-2026/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/h978412/Leetcode-2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h978412/Leetcode-2026/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0242-valid-anagram](https://github.com/h978412/Leetcode-2026/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/h978412/Leetcode-2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/h978412/Leetcode-2026/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/h978412/Leetcode-2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h978412/Leetcode-2026/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0068-text-justification](https://github.com/h978412/Leetcode-2026/tree/main/0068-text-justification/) | Hard |
+| [0242-valid-anagram](https://github.com/h978412/Leetcode-2026/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/h978412/Leetcode-2026/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/h978412/Leetcode-2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/h978412/Leetcode-2026/tree/main/0796-rotate-string/) | Easy |
