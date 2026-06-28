@@ -14,7 +14,7 @@ class Solution {
         }
         foreach(str_split($t) as $char){
             if(isset($map[$char])) $map[$char] -= 1;
-            else $map[$char] = -1;
+            else return false;
         }
         foreach($map as $index=>$value){
             if($value != 0) return false;
